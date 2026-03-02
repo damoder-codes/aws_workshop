@@ -37,3 +37,14 @@ Enable/check the following:
 - (Optional) Allow Google Fonts if you want exact typography rendering in UI
 
 > Note: data is mocked for now and intended for UI iteration before backend integration.
+
+
+## Want this as a separate repo?
+
+Use:
+
+```bash
+bash dashboards/tools/create-standalone-repo.sh
+```
+
+Full details: see `STANDALONE_REPO.md`.
